@@ -33,12 +33,6 @@ Sou estudante de Ciência da Computação pela **UFCG**, focado em desenvolver c
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GustavoMiguel-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMiguel-Dev&layout=compact&theme=dracula"/>
-</div>
 
 ---
 
