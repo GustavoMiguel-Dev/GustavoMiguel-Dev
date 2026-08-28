@@ -45,10 +45,10 @@ Sou estudante de Ciência da Computação pela **UFCG**, focado em desenvolver c
 ## 📬 Contato
 
 <div align="center">
-  <a href="mailto:seu.email@exemplo.com">
+  <a href="mailto:gustavomigueltpb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://linkedin.com/in/gustavo-miguel-de-lima-anísio-759a15316">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
